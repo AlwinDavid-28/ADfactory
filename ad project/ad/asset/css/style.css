@@ -1,0 +1,47 @@
+.header{
+    display: flex;
+    background-color: yellow;
+    justify-content: space-between;
+    align-items: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 10px 60px;
+}
+.logo
+{
+    width: 120px;
+    height: 120px;
+}
+.headercontent{
+    display: flex;
+    padding: 30px;
+    gap: 30px;
+}
+.slide{
+    height: 80vh;
+    object-fit: cover;
+    
+}
+.menu{
+    display: flex;
+    column-gap: 40px;
+    font-size: large;
+}
+.hh{
+    color: white;
+}
+.about{
+    text-align: center;
+}
+.para{
+    text-align:justify;
+}
+.para2{
+ text-align: justify;
+ display: flex;
+}
+.collection{
+    text-align: center;
+}
+.menu1{
+    text-align: center;
+}
